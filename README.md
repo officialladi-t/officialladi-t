@@ -50,7 +50,6 @@ When I'm not working with data, I enjoy reading and researching topics that spar
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Beginner-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Beginner-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
